@@ -1,8 +1,3 @@
-- 👋 Hi, I’m parksejun24
-- 👀 I’m interested in 
-- 🌱 I’m currently learning flutter
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 parksejun24/parksejun24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
