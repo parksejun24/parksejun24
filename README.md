@@ -7,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 <div align="center">
   <h3>Languages</h3>
 	<img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white" />
-	<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white" />
+	<img src="https://img.shields.io/badge/C-02569B?style=flat&logo=C&logoColor=white" />
 	<img src="https://img.shields.io/badge/"C++"-00599C?style=flat&logo=C++&logoColor=white" />
   <img src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=Arduino&logoColor=white" />
 </div>
